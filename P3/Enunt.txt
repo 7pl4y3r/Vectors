@@ -1,0 +1,3 @@
+Inserare:
+1. pe o anumita pozitie
+2. dupa o anumita valoare

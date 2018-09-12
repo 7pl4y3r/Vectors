@@ -1,0 +1,4 @@
+Propietati:
+1. Minimul si de cate ori apare
+2. perechi de element cu aceasi paritate
+3. valorile care respecta o propietate (prim)

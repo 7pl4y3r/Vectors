@@ -1,0 +1,3 @@
+Sortari:
+1. Inserare prin insertie
+2. Bubble sort

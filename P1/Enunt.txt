@@ -1,0 +1,4 @@
+Declarare
+Citire
+Afisare
+Parcurgere
